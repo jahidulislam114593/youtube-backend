@@ -34,5 +34,5 @@ Here is the link to the ER Diagram for the project, designed to model the databa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-clone.git
+   git clone [https://github.com/yourusername/youtube-clone.git](https://github.com/jahidulislam114593/youtube-backend.git)
    ```
