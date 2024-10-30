@@ -28,4 +28,12 @@ app.use(
 
 app.use(cookieParser());
 
+//import routes
+import userRouter from "./routes/user.routes.js";
+
+//router decleration
+app.use("/api/v1/users", userRouter);
+
+// https://localhost:8000/api/v1/users/register
+
 export { app };
