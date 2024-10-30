@@ -1,36 +1,37 @@
-# YouTube-Backend Production Level Development 
+# YouTube-Backend Production-Level Development 
 
-## Following Playlist
-Here is the link to the Youtube Channel I am following for this Production level development Backend:
-[Chai-aur-code](https://www.youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW)
+### YouTube Playlist
+I'm following the "Production Level Development Backend" series from the Chai-aur-Code YouTube channel. You can access the playlist here:  
+[Chai-aur-code - Backend Development](https://www.youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW)
 
-## Learning Topics 
+### ER Diagram
+The ER (Entity-Relationship) Diagram for this project models the database structure and the relationships between entities.  
+[View the ER Diagram](https://app.eraser.io/workspace/UNknhRW5fogdDQpm3vUm?origin=share)
 
-- JWT
-- Bcrypt
-- Cloudinary
-- Mongoose
-- Mongoose-aggregate-paginate-v2
-- Multer
-- Postman API
+## Learning Topics
 
+The project covers several essential backend development concepts and tools:
 
-
-## ER Diagram
-
-Here is the link to the ER Diagram for the project, designed to model the database structure and relationships between various entities:
-[ER Diagram](https://app.eraser.io/workspace/UNknhRW5fogdDQpm3vUm?origin=share)
+- **JWT (JSON Web Token)**: For user authentication and authorization.
+- **Bcrypt**: For securely hashing passwords.
+- **Cloudinary**: To manage and store multimedia content.
+- **Mongoose**: An ODM (Object Data Modeling) library for MongoDB.
+- **Mongoose-aggregate-paginate-v2**: For implementing pagination with MongoDB aggregations.
+- **Multer**: A middleware for handling file uploads.
+- **Postman API**: For testing and documenting API endpoints.
 
 ## Learning Objectives
 
-- Understand the basic structure of a video-sharing platform.
-- Learn to use JavaScript for building interactive features.
-- Implement user authentication and database interactions.
-- Gain experience with database design through the ER Diagram.
+By completing this project, the following objectives will be achieved:
+
+- **Understand** the structure and components of a video-sharing platform.
+- **Build** interactive features using JavaScript.
+- **Implement** secure user authentication and manage database interactions.
+- **Design** a database structure using an ER diagram to model entity relationships effectively.
+
 
 ## How to Run the Project
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/jahidulislam114593/youtube-backend.git]
-   ```
+   git clone https://github.com/jahidulislam114593/youtube-backend.git
