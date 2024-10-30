@@ -1,22 +1,17 @@
-# YouTube Clone Website
+# YouTube-Backend Production Level Development 
 
-This is a learning project designed to replicate some of the core functionality of YouTube.
 
-## Features
+## Learning Topics 
 
-- Video upload functionality
-- Video playback
-- User authentication
-- Comment and like system
-- Search and filter videos
+- JWT
+- Bcrypt
+- Cloudinary
+- Mongoose
+- Mongoose-aggregate-paginate-v2
+- Multer
+- Postman API
 
-## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express (or any backend framework if implemented)
-- **Database**: MongoDB (or any database of your choice)
-- **Authentication**: Firebase/Custom authentication
-- **Deployment**: Hosted on [Your Hosting Platform]
 
 ## ER Diagram
 
